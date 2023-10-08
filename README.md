@@ -11,4 +11,9 @@ This program is still in development and has a lot of work that can still be don
 Therefore this repo is for anyone to create an issue to notify the developers. <br />
 Any and all recommendations and comments are welcome. 
 
+### Contact Me!!
+You can email [brandon@solaropp.net.za](mailto:brandon@solaropp.net.za). <br />
+Insted you can also make a post on this git hub repo.  <br />
+
+
 
